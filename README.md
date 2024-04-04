@@ -6,4 +6,4 @@ Within the project, advanced feature extraction and image processing techniques 
 The proposed CAD relies on fully automatic tumor segmentations, ensuring a reduction in workload for physicians. The system's accuracy was a critical consideration, especially during the construction and training phases, given the possibility of discrepancies between automatic and manual segmentations.
 
 ![Screenshot 2024-01-07 221319](https://github.com/Mcannito/CAD-for-detection-and-diagnosis-of-colonrectal-cancertal-tumor/assets/116760675/2e798e1d-3936-45cd-9440-eaea382c760c)
-![scrrenshot](https://github.com/Mcannito/CAD-for-detection-and-diagnosis-of-colonrectal-cancertal-tumor/assets/116760675/7bdfe3ba-0cdc-4392-b482-3047eec77feb)
+![Screenshot 2024-04-04 121410](https://github.com/Mcannito/CAD-for-detection-and-diagnosis-of-colonrectal-cancertal-tumor/assets/116760675/95db3c2d-2d48-4b0d-b802-77b134121173)
