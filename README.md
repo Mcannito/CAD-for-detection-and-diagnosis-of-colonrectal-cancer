@@ -8,3 +8,4 @@ The proposed CAD relies on fully automatic tumor segmentations, ensuring a reduc
 ![Screenshot 2024-01-07 221319](https://github.com/Mcannito/CAD-for-detection-and-diagnosis-of-colonrectal-cancertal-tumor/assets/116760675/2e798e1d-3936-45cd-9440-eaea382c760c)
 ![Screenshot 2024-04-04 121410](https://github.com/Mcannito/CAD-for-detection-and-diagnosis-of-colonrectal-cancertal-tumor/assets/116760675/95db3c2d-2d48-4b0d-b802-77b134121173)
 ![image](https://github.com/Mcannito/CAD-for-detection-and-diagnosis-of-colonrectal-cancertal-tumor/assets/116760675/6be7fdf7-7b30-4e81-a984-efd803d4af23)
+![image](https://github.com/Mcannito/CAD-for-detection-and-diagnosis-of-colonrectal-cancertal-tumor/assets/116760675/22424682-7efc-484b-a436-47a92a8d0c42)
